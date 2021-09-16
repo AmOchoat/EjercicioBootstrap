@@ -1,0 +1,24 @@
+#Banner {
+    background-color: brown;
+}
+
+#LeftBanner {
+    background-color: #f99a3e;
+}
+
+#TopMenu {
+    background-color: #c39182;
+}
+
+#Footer {
+    background-color: #5b493c;
+}
+
+#Content {
+    background-color: #f2f2f2
+    ;
+}
+
+p {
+    text-align: justify;
+}
